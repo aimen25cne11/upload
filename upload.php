@@ -24,3 +24,4 @@
         echo "There was an error uploading the file, please try again!";
     }
   }
+?>
